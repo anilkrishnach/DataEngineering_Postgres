@@ -9,5 +9,5 @@ Two sources of data are given in form of JSON. One is the song data which has in
     - Users
     - Songs
     - Artists
-    - Time
+    - Time  
 The data is stored in **PostgreSQL** RDBMS. 
